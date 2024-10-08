@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eduol4
 - 👀 I’m interested in videogames, music, art and programing.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, TypeScript, Java and React.
 
 <!---
 Eduol4/Eduol4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
